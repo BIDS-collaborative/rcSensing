@@ -1,6 +1,6 @@
 # rcSensing
 
-The rcSensing projectis focused on using sensative accelerometrs as strong-force seismometers. The intent is to be able to identify events in conflict zones, which can very quite widely. Some of the potential events we intend to detect are.
+The rcSensing project is focused on using sensative accelerometrs as strong-force seismometers. The intent is to be able to identify events in conflict zones, which can very quite widely. Some of the potential events we intend to detect are.
 
   - Troop Movements
   - IEDs explosions
